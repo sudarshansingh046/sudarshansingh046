@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on any flutter project
 - 💬 Ask me about C++,Java,Flutter,Dart
-- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/sudarshan-singh-052170190/)
+- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/sudarshan-singh-052170190)
 
 <!---
 sudarshansingh046/sudarshansingh046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
